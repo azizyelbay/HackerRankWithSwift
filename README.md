@@ -1,3 +1,1 @@
-# HackerRankWithSwift
-
 Hackerrank Swift Solutions
